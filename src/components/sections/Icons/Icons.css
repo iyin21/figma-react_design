@@ -1,0 +1,33 @@
+.wrapper{
+	padding: 5px;
+}
+.fa-google {
+  background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+.fa-apple{
+	color: black;
+
+}
+.social-icon{
+	/*background-color: #ffffff;*/
+	/*margin-top: 200px;*/
+	/*background: #FFFFFF;*/
+	border: 1px solid #E0E0E0;
+	box-sizing: border-box;
+	border-radius: 15px;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 15px;
+	width: 100px;
+	height: 60px;
+	margin-left: 20px;
+	margin-right: 20px;
+	filter: drop-shadow(0px 0px 0px #ffffff);
+}
+.paragraph{
+	padding-left: 5px;
+}

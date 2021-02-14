@@ -1,0 +1,32 @@
+.right .footer{
+	top: 100px;
+	font-family: Circular Std;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	margin-top: 70px;
+}
+.right form .form1{
+  margin-top: 20%
+  ;
+}
+.right .first-text1{
+  font-size: 18px;
+  opacity: 60%;
+  padding-top: 20px;
+  padding-bottom: 70px;
+}
+
+.right .head1{
+	margin-top:30px;
+}
+.right form .form-group .move{
+	margin-left: 150px;
+	font-size: 14px;
+	position: relative;
+}
+.link1{
+	position: absolute;
+	right: -170px;
+	color: red;
+}

@@ -1,0 +1,25 @@
+.right form .form2{
+  margin-top: 50px;
+}
+/**/
+.foot{
+	font-family: Circular Std;
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	margin-top: 10px;
+
+	/* identical to box height */
+	text-align: center;
+	margin-left: -30px;
+}
+.right form button{
+	margin-top: 10px; 
+}
+
+.right .first-text{
+  font-size: 18px;
+  opacity: 60%;
+  padding-bottom: 20px;
+}

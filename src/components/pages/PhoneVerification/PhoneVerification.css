@@ -1,0 +1,48 @@
+.payment3{
+	text-align: center;
+	margin-top: 150px;
+}
+
+.margin{
+	margin-top: 80px;
+}
+
+.head{
+	width: 450px;
+	padding-left: 220px;
+	font-size: 24px;
+	font-weight: 800px;
+	}
+p{
+	width: 470px;
+	padding-left: 200px;
+	font-size: 14px;
+}	
+
+.form-style{
+	margin-top: 50px;
+
+}
+
+.right .btn-style1{
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+.right .footer{
+	width: 460px;
+	padding-left: 250px;
+	font-family: Circular Std;
+	font-style: normal;
+	font-weight: 450;
+	font-size: 14px;
+	line-height: 18px;
+	margin-top: 10px;
+}
+.right .first-text2{
+  font-size: 14px;
+  opacity: 60%;
+  text-align: center;
+  width: 470px;
+  padding-left: 200px;
+  margin-top: 20px;
+}
