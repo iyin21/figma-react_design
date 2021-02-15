@@ -8,7 +8,7 @@ const PhoneVerification = () =>{
 				
 			</div>
 			<div className="split right margin">
-				<div className="head">Verify your phone number</div>
+				<h3 className="head">Verify your phone number</h3>
 				<div className="first-text2">We have sent you an OTP PIN via SMs to the number you entered.</div>
 				<div className="form-group centered form-style"> 
 					<div className="col-sm-6 input-icons">

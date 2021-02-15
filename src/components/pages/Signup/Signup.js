@@ -36,7 +36,6 @@ const Signup=() =>{
 							<i class="fas fa-mobile-alt icon"></i>
 							<input type="tel" name="phone" id="phone" placeholder="" className="form-control form-control-lg" required/>
 							<span className="floating-label">Phone</span>
-							// <i className="far fa-eye"></i>
 						</div>
 					</div>	
 					<div className="form-group centered"> 
